@@ -6,3 +6,4 @@ Week 1 prep assessment
 2- Then start with your main.js file.
 
 Resources
+ * MDN
