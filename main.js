@@ -7,9 +7,11 @@
 // Note: please write one or two lines here describing your solution.
 function percentOf(num1, num2) {
   // TODO: your code here
+  //declared a variable to save the value.
   var percentage = (100 * num1) / num2;
-
+//return statement.
   return num1 + " is " + percentage + "% of " + num2;
+
 }
 //=============================================== 2
 //Write a function called pluralize that:
